@@ -20,4 +20,6 @@
 ​Dynamic Fire Simulation: Introduce fire spread over time and ensure the path is re-evaluated immediately upon environmental change.  
 ​Visualization & Simulation: Use Matplotlib for static grid display and Pygame/Tkinter for interactive, animated robot movement.  
 
-# ​Output & Evaluation: Display the final escape path and evaluate the performance against various scenarios.
+# ​Output & Evaluation: 
+
+Display the final escape path and evaluate the performance against various scenarios.
